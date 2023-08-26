@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "HnnYD5ru6m2BfkjDzBR25TZD1lvvug91npaHmKXh21k88KRggNZBSFSKjOU9ziiS5FSECFHv9j6dF6D/nYGsXg==",
+  "success": true,
+  "projectFilePath": "E:\\Dev\\Projects\\OrsyxSudoku\\OrsyxSudoku\\OrsyxSudoku.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ניר ורעות\\.nuget\\packages\\bitmiracle.libtiff.net\\2.4.649\\bitmiracle.libtiff.net.2.4.649.nupkg.sha512",
+    "C:\\Users\\ניר ורעות\\.nuget\\packages\\ironsoftware.system.drawing\\2023.7.1\\ironsoftware.system.drawing.2023.7.1.nupkg.sha512",
+    "C:\\Users\\ניר ורעות\\.nuget\\packages\\ironxl.excel\\2023.8.19\\ironxl.excel.2023.8.19.nupkg.sha512",
+    "C:\\Users\\ניר ורעות\\.nuget\\packages\\sixlabors.imagesharp\\3.0.0\\sixlabors.imagesharp.3.0.0.nupkg.sha512",
+    "C:\\Users\\ניר ורעות\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
